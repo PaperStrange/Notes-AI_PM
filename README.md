@@ -12,7 +12,7 @@ Commonly, no extra installations are required.
 
 ## Project Motivation<a name="motivation"></a>
 
-* A recorder available for viewing from everywhere 
+* A note recorder available for viewing from everywhere 
 * A sort of fragmentation time
 
 ## Branch Descriptions <a name="branch"></a>
