@@ -14,3 +14,4 @@ MYSQL | 2020-06-11 | Unknown column ‘xxx’ in ‘where clause’ | 对WHERE�
 MYSQL | 2020-06-11 | SQL syntax near ')' | 在没有嵌套的情况下去除多余的() | 成功 | 举例：SELECT * FROM \nSELECT A FROM table1和SELECT * FROM (\nSELECT A FROM table1, \nSELECT B FROM table2)，但如果需要传递table则必须加()
 MYSQL | 2020-06-12 | SQL syntax near AS XXX | 修改命名 | 成功 | 固有名词(index)和已经赋值的变量名不能再作为alias
 MYSQL | 2020-06-12 | 查询子字符串是否在数据中查询失败 | 将IN和FIND_IN_SET函数换为LOCATE | 成功 | 原因未知
+MYSQL | | | | |
